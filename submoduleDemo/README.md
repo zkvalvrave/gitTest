@@ -1,2 +1,0 @@
-# submoduleDemo
-commit1
